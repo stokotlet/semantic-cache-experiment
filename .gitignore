@@ -1,0 +1,4 @@
+/semantic-cache-experiment
+*.test
+*.out
+.env
